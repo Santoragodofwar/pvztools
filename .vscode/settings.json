@@ -1,11 +1,4 @@
-{
-    "python.linting.enabled": false,
-    "files.associations": {
-        "*.ts": "xml",
-        "*.release": "makefile",
-        "*.debug": "makefile",
-        "qtwidgets": "cpp",
-        "iostream": "cpp",
+
         "vector": "cpp",
         "xstring": "cpp",
         "xutility": "cpp",
